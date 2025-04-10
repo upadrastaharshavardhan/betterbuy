@@ -1,11 +1,4 @@
-# Notice
-This project was developed as a hobby project and was last maintained two years ago. Unfortunately, due to changes in the websites I originally scraped data from, the web scraping functionality is currently broken, and the e-commerce websites used in this project are no longer accessible for scraping. As of now, I am no longer maintaining or updating this project.
 
-Please note that the sentiment analysis feature, which relies on the Amazon Reviews dataset, may still work for sentiment analysis tasks, but the price comparison functionality is not functional at this time.
-
-Feel free to fork this repository and make improvements if you'd like to get it working with new websites or data sources.
- 
- 
  # Price Comparison and Sentiment Analysis Project
 
 This project aims to perform price comparison between e-commerce websites and sentiment analysis on user reviews using web scraping techniques, Python programming language, and Support Vector Machine (SVM) model. The project utilizes the Amazon Reviews dataset from Kaggle for training and evaluating the sentiment analysis model.
@@ -88,4 +81,4 @@ We would like to express our gratitude to the following resources and communitie
 
 ## Contact
 
-For any inquiries or support related to the project, please reach out to us at [sudipghosh9333@gmail.com](mailto:sudipghosh9333@gmail.com). We appreciate your feedback and suggestions.
+For any inquiries or support related to the project, please reach out to us at [upadrastaharsha09@gmail.com](mailto:upadrastaharsha09@gmail.com). We appreciate your feedback and suggestions.
